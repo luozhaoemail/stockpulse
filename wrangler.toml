@@ -1,0 +1,11 @@
+name = "stockpulse"
+compatibility_date = "2024-01-01"
+pages_build_output_dir = "."
+
+[vars]
+ENVIRONMENT = "production"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "stockpulse-db"
+database_id = "c4ad53ef-7948-4363-b23e-ab951b54235b"
